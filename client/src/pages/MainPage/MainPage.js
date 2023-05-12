@@ -6,7 +6,7 @@ function MainPage() {
     return (
         <div class="mainPageContainer">
             <div class="picture">
-                <header>WELCOME TO HATDOGANS HATDOGS</header>
+                <header class="headerMainPage">LARS SNACKBOX</header>
             </div>
         </div>
     )
