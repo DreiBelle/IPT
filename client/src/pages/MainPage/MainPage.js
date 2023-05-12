@@ -8,6 +8,10 @@ function MainPage() {
             <h1 style={{ display: 'inline-block', fontSize: '2rem' }}>My App</h1>
             <h1 style={{ display: 'inline-block', fontSize: '2rem' }}>My App</h1>
             <h1 style={{ display: 'inline-block', fontSize: '2rem' }}>My App</h1>
+            <h1 style={{ display: 'inline-block', fontSize: '2rem' }}>My App</h1>
+            <h1 style={{ display: 'inline-block', fontSize: '2rem' }}>My App</h1>
+            <h1 style={{ display: 'inline-block', fontSize: '2rem' }}>My App</h1>
+            <h1 style={{ display: 'inline-block', fontSize: '2rem' }}>My App</h1>
         </header>
     )
 }
