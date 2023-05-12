@@ -1,0 +1,11 @@
+.picture{
+    height: 5vh;
+    background-image: url('https://images.pexels.com/photos/1371527/pexels-photo-1371527.jpeg?cs=srgb&dl=pexels-rahul-pandit-1371527.jpg&fm=jpg');
+        position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+}
+
+.mainPageContainer{
+    height: 200vh;
+}

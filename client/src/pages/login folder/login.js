@@ -7,7 +7,7 @@ function Login() {
         return (
                 <div class="flex-center">
                         <div class="cardLogin">
-                                <Card style={{ backgroundColor: 'white', borderRadius: '10px', height: '30vh', display: 'flex', width: '50vh', justifyContent: 'center', alignItems: 'center'}}>
+                                <Card style={{ backgroundColor: 'white', borderRadius: '10px', height: '40vh', display: 'flex', width: '50vh', justifyContent: 'center', alignItems: 'center'}}>
                                         <Table>
                                                 <h1 style={{display: 'flex', justifyContent:'center', alignItems:'center'}}>LARS SNACKBAR</h1>
                                                 <TableRow style={{ display: 'flex', justifyContent: 'center' }}>
