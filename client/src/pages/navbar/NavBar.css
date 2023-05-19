@@ -1,4 +1,4 @@
-.mainPageContainer {
+/* .mainPageContainer {
     height: 100%;
     display: flex;
     flex-direction: column;
@@ -8,7 +8,7 @@
     background-color: #F6D4BA;
     padding: 10px;
     width: 100%;
-    height: 80px;
+    height: 40px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -24,12 +24,11 @@
   
   .headerButtons {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
   }
   
   .headerButton {
     margin-left: 20px;
-    border-radius: 100px;
-    height: 70px;
     width: 100px;
   }
+   */
