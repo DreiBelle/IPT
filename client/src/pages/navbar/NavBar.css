@@ -1,4 +1,4 @@
-/* .mainPageContainer {
+.mainPageContainer {
     height: 100%;
     display: flex;
     flex-direction: column;
@@ -25,10 +25,23 @@
   .headerButtons {
     display: flex;
     justify-content: center;
+    margin-left: 200px;
+
   }
   
   .headerButton {
     margin-left: 20px;
     width: 100px;
   }
-   */
+  
+
+   .headerBorder{
+    border-bottom: none !important;
+    display: flex;
+    justify-content: center;
+   }
+
+   .headerButtonAdmin{
+    float: right;
+    border-bottom: none !important;
+   }
